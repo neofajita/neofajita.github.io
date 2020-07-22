@@ -1,0 +1,1 @@
+powershell.exe -c 'cmd.exe /c calc.exe'
